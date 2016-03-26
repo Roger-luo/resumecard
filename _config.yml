@@ -1,9 +1,9 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: Roger Luo's CV 
+description: Roger Luo's CV
 favicon: /resumecard/assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+baseurl: https://Roger-luo.github.io/resumecard
+url: https://Roger-luo.github.io/resumecard
 rss_url: /resumecard/pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -14,15 +14,15 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
+  name: Roger Luo
+  title: Physics & CS undergraduate
+  address: Hefei, China
+  email: hiroger@qq.com
+  link: http://rogerluo.cc
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: Roger-luo
+  # linkedin: ddbullfrog
+  # twitter: ddbullfrog
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
